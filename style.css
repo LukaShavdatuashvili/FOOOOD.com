@@ -1,0 +1,70 @@
+html{
+    background-color: rgb(59, 59, 59);
+    text-align: center;
+}
+
+.main-container2{
+    background: rgb(245, 245, 245);
+    width: 1000;
+    padding: 1px;
+    text-align: center;
+    
+}
+.main-container{
+    background: rgb(255, 255, 255);
+    width: 1000;
+    padding: 1px;
+    text-align: center;
+    
+}
+
+.container {
+    
+align-items: right;
+margin: 5px 100px;
+padding: 5px;
+text-align: center;
+}
+
+
+.container img{
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+    padding: 10px 500px;
+    margin: 0px;
+    text-align: center;
+
+}
+
+div h2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+div h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-right: 0px;
+}
+
+.CESAR img{
+    width: 450px;
+    position: relative;
+    right: 0px;
+    
+}
+
+.CESAR p{
+ position: relative;
+ bottom: 0px;
+ font-size: 19px;
+ padding-right: 0px;
+
+}
+.MOMZADEBA {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+
